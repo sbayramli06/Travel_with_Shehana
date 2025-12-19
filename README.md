@@ -57,6 +57,7 @@ A full-stack PHP/MySQL web application for logging, tracking, and analyzing supe
 
 The application uses a **normalized relational database** with 7 tables:
 
+```
 ┌─────────────────┐ ┌──────────────┐ ┌─────────────┐
 │ Weather_ │ │ Fuel_ │ │ Road_ │
 │ Condition │ │ Status │ │ Category │
@@ -81,6 +82,7 @@ The application uses a **normalized relational database** with 7 tables:
 │ Actions_ │
 │ Taken │
 └─────────────┘
+```
 
 ### Key Tables:
 - `Drive_Log` - Main table storing each driving session
@@ -235,17 +237,6 @@ This project was created for educational purposes as part of the UFAZ Backend De
 - AlwaysData for free hosting services
 - Bootstrap team for the responsive framework
 - MySQL and PHP communities
-
-## 📸 Screenshots
-
-### Dashboard
-![Dashboard Screenshot]("C:\Users\Nilufar\Documents\UFAZ-Projects\driving-experience\Screenshot 2025-12-19 201747.png")
-
-### Add Driving Experience
-![Add Drive Form]("C:\Users\Nilufar\Documents\UFAZ-Projects\driving-experience\Screenshot 2025-12-19 201802.png")
-
-### Statistics Page
-![Statistics View]("C:\Users\Nilufar\Documents\UFAZ-Projects\driving-experience\Screenshot 2025-12-19 201824.png")
 
 ---
 
