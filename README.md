@@ -128,12 +128,9 @@ define('DB_NAME', 'your-database-name');
 5. **Access the application**
 - Navigate to your website URL
 - Start logging driving experiences!
-
 ## 📁 Project Structure
 
-
-## 📁 Project Structure
-
+```text
 driving-experience/
 ├── css/
 │   └── style.css              # Main stylesheet for the application
@@ -145,10 +142,8 @@ driving-experience/
 │
 ├── add_drive.php              # Form page to add a new driving experience
 ├── process_drive.php          # Handles form submission and stores data in the database
-│
 ├── view_drives.php            # Displays the list of recorded driving experiences
 ├── statistics.php             # Shows statistics and analysis of driving data
-│
 ├── manage_variables.php       # Centralized configuration / variable management
 │
 ├── index.php                  # Main entry point of the application
@@ -159,6 +154,7 @@ driving-experience/
 ├── test.php                   # Testing / debugging file
 │
 └── README.md                  # Project documentation
+
 
 
 
@@ -245,13 +241,13 @@ This project was created for educational purposes as part of the UFAZ Backend De
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard Screenshot]("C:\Users\Nilufar\Pictures\Screenshots\Screenshot 2025-12-19 201747.png")
+![Dashboard Screenshot]("C:\Users\Nilufar\Documents\UFAZ-Projects\driving-experience\Screenshot 2025-12-19 201747.png")
 
 ### Add Driving Experience
-![Add Drive Form]("C:\Users\Nilufar\Pictures\Screenshots\Screenshot 2025-12-19 201802.png")
+![Add Drive Form]("C:\Users\Nilufar\Documents\UFAZ-Projects\driving-experience\Screenshot 2025-12-19 201802.png")
 
 ### Statistics Page
-![Statistics View]("C:\Users\Nilufar\Pictures\Screenshots\Screenshot 2025-12-19 201824.png")
+![Statistics View]("C:\Users\Nilufar\Documents\UFAZ-Projects\driving-experience\Screenshot 2025-12-19 201824.png")
 
 ---
 
